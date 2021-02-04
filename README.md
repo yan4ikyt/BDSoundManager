@@ -1,5 +1,6 @@
 # BDSoundManager
 Program for edit, extract, list SoundBank files or fix VAG or BD files.
+
 Perfectly works! Original code by Nistro, BDFix original code by Pips.
 Tested on Parappa The Rapper 2. 
 All just need for Windows just run script in Command Line and here we go!
