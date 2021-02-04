@@ -7,7 +7,8 @@ Tested on Parappa The Rapper 2.
 All just need for Windows just run script in Command Line and here we go!
 For linux, just run in terminal `python3 bdsoundmanager`
 
-```Usage : [-h] [-bd BD] [-hd HD] [-o OUT] [-in INPUT] [-m MODE] [-i INDEX]
+```
+Usage : [-h] [-bd BD] [-hd HD] [-o OUT] [-in INPUT] [-m MODE] [-i INDEX]
   -h, --help            show help message and exit
   -bd BD, --bd BD       .BD File
   -hd HD, --hd HD       .HD File
