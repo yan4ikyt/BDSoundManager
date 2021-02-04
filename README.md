@@ -2,11 +2,12 @@
 Program for edit, extract, list SoundBank files or fix VAG or BD files.
 
 Perfectly works! Original code by Nistro, BDFix original code by Pips.
-Tested on Parappa The Rapper 2. 
+Tested on Parappa The Rapper 2.
+
 All just need for Windows just run script in Command Line and here we go!
 For linux, just run in terminal `python3 bdsoundmanager`
 
-Usage : [-h] [-bd BD] [-hd HD] [-o OUT] [-in INPUT] [-m MODE] [-i INDEX]
+```Usage : [-h] [-bd BD] [-hd HD] [-o OUT] [-in INPUT] [-m MODE] [-i INDEX]
 
   -h, --help            show help message and exit
   -bd BD, --bd BD       .BD File
@@ -15,7 +16,7 @@ Usage : [-h] [-bd BD] [-hd HD] [-o OUT] [-in INPUT] [-m MODE] [-i INDEX]
   -in INPUT, --input INPUT Input VAG file for export
   -m MODE, --mode MODE  'E' For extract, 'i' For import, 'F' for fix VAG file, 'l' for list audio in BD file
   -i IND, --ind IND     Index of VAG (need for import)
-  
+```  
   Example : 
   
   BD Sound Manager.exe  -bd A01_gm0_00.bd -hd A01_gm0_00.hd -m i -in "A01_gm0_00_00.VAG" -i 00
